@@ -157,7 +157,7 @@ await client.sendMessage(
 
 `📌 *Profil BPS Kabupaten Gunung Mas*
 
-Badan Pusat Statistik Kabupaten Gunung Mas merupakan instansi vertikal BPS yang melaksanakan kegiatan statistik di wilayah Kabupaten Gunung Mas.`
+Badan Pusat Statistik Kabupaten Gunung Mas adalah instansi vertikal BPS yang bertugas melaksanakan kegiatan penyediaan data dan informasi statistik, serta pembinaan statistik sektoral guna mendukung pembangunan di wilayah Kabupaten Gunung Mas.`
 );
 }
 
@@ -173,10 +173,10 @@ await client.sendMessage(
 
 `📍 *Alamat BPS Kabupaten Gunung Mas*
 
-Jl. Katamso No. 97,
-Tampang Tumbang Anjir,
-Kecamatan Kuala Kurun,
-Kabupaten Gunung Mas.`
+Kantor BPS Kabupaten Gunung Mas beralamat di:
+Jl. Katamso No. 97, Tampang Tumbang Anjir, Kecamatan Kuala Kurun, Kabupaten Gunung Mas, Kalimantan Tengah. 74571.
+
+Peta Lokasi Google Maps: https://maps.app.goo.gl/qRAY152EUMyzLVEY7`
 );
 }
 
@@ -190,10 +190,12 @@ await client.sendMessage(
     user,
 
 
-`🕘 *Jam Pelayanan Kantor*
+`🕘 Jam Pelayanan Kantor
 
-Senin–Jumat
-08.00–16.00 WIB`
+Jam Layanan PST (Pelayanan Statistik Terpadu) BPS Kabupaten Gunung Mas:
+ Senin - Kamis: 08.00 - 15.30 WIB
+ Jumat: 08.00 - 16.00 WIB
+(Waktu Istirahat: 12.00 - 13.00 WIB)`
 );
 }
 
@@ -207,10 +209,12 @@ await client.sendMessage(
     user,
 
 
-`☎️ *Kontak BPS Kabupaten Gunung Mas*
+`☎️ Kontak BPS Kabupaten Gunung Mas
 
-WhatsApp: 085798188591
-Email: [bps6211@bps.go.id](mailto:bps6211@bps.go.id)`
+Anda dapat menghubungi BPS Kabupaten Gunung Mas melalui:
+📲 WhatsApp PST: +62811-506-211
+✉️ Email: bps6210@bps.go.id
+🌐 Website Resmi: gunungmaskab.bps.go.id`
 );
 }
 

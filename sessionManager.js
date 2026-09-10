@@ -8,17 +8,7 @@ const {
 // SESSION STORAGE
 // ==================================================
 //
-// Map digunakan untuk menyimpan session setiap user.
-//
-// Key bisa berupa:
-// 6281234567890@c.us
-//
-// atau:
-// 123456789@lid
-//
-// LID hanya digunakan secara internal.
-// TIDAK PERNAH dikirim ke admin.
-//
+
 
 const userState = new Map();
 
